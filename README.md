@@ -7,6 +7,7 @@ Este é um aplicativo mobile desenvolvido em React Native que oferece uma soluç
 
 ## Imagens
 
-<img width="957" alt="Saida" src="https://github.com/user-attachments/assets/ccb4cb8f-999d-4de5-9f3d-a5651b7acf7c" />
-<img width="952" alt="home" src="https://github.com/user-attachments/assets/ed648b26-abc4-4d3a-9629-3dab4dfe6404" />
-<img width="952" alt="Entrada" src="https://github.com/user-attachments/assets/0f5c5559-03a5-4482-b0b2-8a92273c5647" />
+
+<img width="957" alt="Saida" src="https://github.com/user-attachments/assets/6ae90820-c649-4caf-a525-c8223a2b232d" />
+<img width="952" alt="home" src="https://github.com/user-attachments/assets/85e64693-68c5-4de5-ba18-287dc16b65ed" />
+<img width="952" alt="Entrada" src="https://github.com/user-attachments/assets/e614eeae-cd49-4f32-a367-c83e96d6ede1" />
